@@ -1,0 +1,100 @@
+.container{
+    background-color: antiquewhite;
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  width: fit-content;
+  margin: auto;
+  padding: 50px;
+  font-size: 20px;
+  margin-top: 10%;
+  font-family: arial;
+  border: 3px blue solid;
+  border-radius: 13px;
+  
+
+}
+input{
+    font-size: 20px;
+}
+button{
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 9px;
+    cursor: pointer;
+    font-weight: bold;
+    font-family: arial;
+    font-size: large;
+    margin: auto;
+}
+
+button:hover{
+    color: blue;
+    background-color: white;;
+}
+label{
+    font-size: large;
+    font-weight: bold;
+}
+::placeholder{
+    color: green;
+font-size: 15px;
+
+}
+
+.create{
+    background-color: antiquewhite;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: fit-content;
+    padding: 100px;
+    margin-top: 20%;
+    border-radius: 12px;
+    border: 3px blue solid;
+    
+}
+.call{
+    font-size: xx-large
+}
+
+a{
+
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: blue;
+}
+.nav{
+    background-color: bisque;
+    padding: 4px;
+    font-size: 23px;
+  
+}
+.call{
+    color: black
+}
+.CV{
+    background-color: antiquewhite;
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  width: fit-content;
+  margin: auto;
+  padding: 50px;
+  font-size: 20px;
+  margin-top: 10%;
+  font-family: arial;
+  border-radius: 13px;
+  border: 3px blue solid;
+}
+.submit-button{
+    margin-left: 30%;
+    padding-left: 100px;
+    padding-right: 100px;
+    border-radius: 12px;
+
+}

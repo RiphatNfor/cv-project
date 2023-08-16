@@ -1,0 +1,16 @@
+
+
+
+a{
+    color: black;
+    text-decoration: none;
+    margin-left: 30px;
+    font-size: 20PX;
+}
+.tag{
+    margin-left: 80%;
+   margin-bottom: .5rem;
+}
+a:hover{
+    color: blue;
+}
